@@ -149,7 +149,7 @@ a{
 .container-1 .row .col:hover .col-img{
     transform: scale(1.1);
 }
-.container-1 .row .col .filter .text{
+.container-1 .row .col .filter .text p{
     text-align: center;
     color: white;
 }
